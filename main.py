@@ -36,7 +36,6 @@ else:
 
 
 playlists = PlaylistClassifier.playlist_dict(username, sp)
-playlists
 
 
 # In[3]:
