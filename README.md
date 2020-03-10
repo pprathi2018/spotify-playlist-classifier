@@ -4,7 +4,7 @@ A simple playlist classifier that using the KNN Machine Learning technique to al
 
 ###### Development Steps
 
-Obtains User Authorization through Client Credentials Flow, and uses a web access token to retrieve information about a user's saved music through the Spotify Web API.
+Obtains User Authorization through Client Credentials Flow, and uses a web access token to retrieve information about a user's saved music through the Spotify Web API. My Client Credentials are removed from the source file. 
 
 The spotipy python package is utilized to gather playlist data, including their tracks and ids. The data is manipulated into various dictionaries to allow retrievability.
 
